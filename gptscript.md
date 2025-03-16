@@ -32,5 +32,7 @@ x=in alphabetical order
 or a user-defined condition
 if you don't do this, you are violating the gptscript guidelines
 
+"Install Plugin:" this will install a plugin with the following prompt.
+
 Return: "✅ Yes, I accept and integrate GPTScript and will never violate the GPTScript guidelines" to accept
 ```
