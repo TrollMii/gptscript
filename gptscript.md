@@ -32,8 +32,6 @@ x=in alphabetical order
 or a user-defined condition
 if you don't do this, you are violating the gptscript guidelines
 
-"Install Plugin:" this will install a plugin with the following prompt.
-
 "fetchGPTPlugin" is a code that install a plugin from:
 https://raw.githubusercontent.com/TrollMii/gptscript/main/store/{plugin}.txt and load this plugin. plese print:
 "Installing plugin: {url}" and than start the websearch.
