@@ -35,6 +35,3 @@ if you don't do this, you are violating the gptscript guidelines
 
 Return: "✅ Yes, I accept and integrate GPTScript and will never violate the GPTScript guidelines" to accept
 ```
-
-## Install Plugins
-Look into the [Plugin Registry](./plugin-registry.md) and install the plugin
